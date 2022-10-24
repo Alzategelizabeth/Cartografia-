@@ -7,19 +7,19 @@
         <BucketCount>4</BucketCount>
         <IncludeOutOfRange>1</IncludeOutOfRange>
         <Approximate>0</Approximate>
-        <HistCounts>0|25024|34981|791098</HistCounts>
+        <HistCounts>0|25084|35029|791264</HistCounts>
       </HistItem>
     </Histograms>
     <Metadata>
       <MDI key="RepresentationType">THEMATIC</MDI>
-      <MDI key="STATISTICS_COVARIANCES">0.1487274406992009</MDI>
+      <MDI key="STATISTICS_COVARIANCES">0.1489816084428517</MDI>
       <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
       <MDI key="STATISTICS_MAXIMUM">3</MDI>
-      <MDI key="STATISTICS_MEAN">2.9000955231035</MDI>
+      <MDI key="STATISTICS_MEAN">2.8999303481302</MDI>
       <MDI key="STATISTICS_MINIMUM">1</MDI>
       <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
       <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
-      <MDI key="STATISTICS_STDDEV">0.38565196835904</MDI>
+      <MDI key="STATISTICS_STDDEV">0.38598135763642</MDI>
     </Metadata>
   </PAMRasterBand>
 </PAMDataset>
