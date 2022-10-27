@@ -3,7 +3,7 @@
     <Histograms>
       <HistItem>
         <HistMin>0</HistMin>
-        <HistMax>69.57177734375</HistMax>
+        <HistMax>69.57177734</HistMax>
         <BucketCount>256</BucketCount>
         <IncludeOutOfRange>1</IncludeOutOfRange>
         <Approximate>0</Approximate>
@@ -12,14 +12,14 @@
     </Histograms>
     <Metadata>
       <MDI key="RepresentationType">ATHEMATIC</MDI>
-      <MDI key="STATISTICS_COVARIANCES">141.6809327016363</MDI>
+      <MDI key="STATISTICS_COVARIANCES">141.6809327017251</MDI>
       <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
-      <MDI key="STATISTICS_MAXIMUM">69.57177734375</MDI>
-      <MDI key="STATISTICS_MEAN">26.675828633566</MDI>
+      <MDI key="STATISTICS_MAXIMUM">69.57177734</MDI>
+      <MDI key="STATISTICS_MEAN">26.67582863357</MDI>
       <MDI key="STATISTICS_MINIMUM">0</MDI>
       <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
       <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
-      <MDI key="STATISTICS_STDDEV">11.902979992491</MDI>
+      <MDI key="STATISTICS_STDDEV">11.902979992495</MDI>
     </Metadata>
   </PAMRasterBand>
 </PAMDataset>
